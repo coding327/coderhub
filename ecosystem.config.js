@@ -2,7 +2,7 @@
 module.exports = {
   apps: [
     {
-      name: 'coderhub-server',
+      name: 'coderhub',
       script: './src/main.js',
       watch: true
     }
